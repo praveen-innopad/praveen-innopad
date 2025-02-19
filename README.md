@@ -13,6 +13,12 @@
 📩 **Let's Connect:** [LinkedIn](#) | [Portfolio](#) | [Email](#)  
 
 ---
+## 📊 Profile Stats & Visitor Count  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=innopad-praveen&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innopad-praveen&layout=compact&theme=dark)  
+![Visitor Count](https://komarev.com/ghpvc/?username=innopad-praveen&color=blue&style=flat)  
+
+---
 
 ## 💻 Tech Stack & Tools  
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)  
@@ -40,7 +46,7 @@
 ---
 
 ## 💬 Let's Connect!  
-📩 **Email:** [praveenjoshi@innopadsolutions](mailto:praveenjoshi@innopadsolutions.com)  
+📩 **Email:** [praveenjoshi@innopadsolutions.com](mailto:praveenjoshi@innopadsolutions.com)  
 💼 **LinkedIn:** [linkedin.com/in/your-profile](#)  
 🌎 **Portfolio:** [yourwebsite.com](#)  
 
